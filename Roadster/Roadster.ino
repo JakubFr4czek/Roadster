@@ -243,12 +243,12 @@ void EngineFfb(){
     engineLastPos=false;
   }
   else if(steeringValue>15&&engineLastPos==false){
-    analogWrite(engine.pin[1],30);
+    analogWrite(engine.pin[0],30);
     engineLastPos=true;
     
     }
   else if(steeringValue<-15&&engineLastPos==false){
-    analogWrite(engine.pin[0],30);
+    analogWrite(engine.pin[1],30);
     engineLastPos=true;
 
   } 
