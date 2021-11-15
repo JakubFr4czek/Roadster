@@ -262,11 +262,13 @@ void GearboxChange(){
   currentgearboxChange=digitalRead(8);
   if(currentgearboxChange==1&&lastgearboxChange==0){
       Joystick.setButton(8,0);
+      delay(50);
       Joystick.setButton(9,1);
       lastgearboxChange=currentgearboxChange;
   }
   else if(currentgearboxChange==0&&lastgearboxChange==1){
       Joystick.setButton(8,1);
+      delay(50);
       Joystick.setButton(9,0);
       lastgearboxChange=currentgearboxChange;
   }
