@@ -80,7 +80,7 @@ Element_Ranged gas(GAS_ENABLED,gasPin,1,0,60);
 short *steeringPin = new short[2]{0,1};
 Element_Ranged steering(STEERING_ENABLED ,steeringPin,2,-800,800);
 
-short *gearboxPin = new short[3]{10,16,14};
+short *gearboxPin = new short[3]{10,11,12};
 Element_NRanged gearbox(GEARBOX_ENABLED,gearboxPin,3);
 
 short *gearboxChangePin = new short[2]{8,9};
