@@ -1,7 +1,7 @@
 # Projekt Ekonomik Roadster
 ![Screenshot](picture.png)
 ### Ekonomik Roadster został przygotowany na potrzeby konkursu "Od pomysłu do przemysłu".  Jego autorami są: Jakub Frączek oraz Kamil Kras.
-###Projekt można zobaczyć tutaj: https://www.youtube.com/watch?v=ISzCpdcXRQk
+### Projekt można zobaczyć tutaj: https://www.youtube.com/watch?v=ISzCpdcXRQk
 # KONFIGURACJA PROGRAMU
    1. Pobrać następujące biblioteki:
    - https://github.com/MHeironimus/ArduinoJoystickLibrary
