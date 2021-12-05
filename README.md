@@ -14,13 +14,13 @@
    5. Do folderu D:\Arduino\hardware przenieść i rozpakować pobrany plik
     
 ### JOYSTICK
-   W celu użycia arduino jako zwykłego kontrolera, należy odkomentować #define JOY
+   - W celu użycia arduino jako zwykłego kontrolera, należy odkomentować #define JOY
    oraz zakomentować #define XBOX oraz wybrać Arduino z AVR Boards, nie trzeba wybierać portu.
    Gdy pokaże się "Uploading..." dwa razy szybko kliknąć guzik reset na arduino, dioda
    z podpisem L powinna zacząć migać. 
    
 ### XBOX 360 GAMEPAD
-   W celu użycia arduino jako pada od xboxa 360 należy odkomentować #define XBOX
+   - W celu użycia arduino jako pada od xboxa 360 należy odkomentować #define XBOX
    oraz zakomentować #define JOY oraz wybrać Arduino Leonardo z XInput AVR Boards, 
    nie trzeba wybierać portu. Gdy pokaże się "Uploading..." dwa razy szybko kliknąć 
    guzik reset na arduino, dioda z podpisem L powinna zacząć migać. 
