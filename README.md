@@ -1,3 +1,4 @@
-# Projekt Ekonomik Roadster - symulator samochodu ciężarowego / osobowego
+# Projekt Ekonomik Roadster
+## Jest to symulator samochodu ciężarowego / osobowego
 
 ![Screenshot](picture.png)
