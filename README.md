@@ -2,7 +2,7 @@
 
 Początki projektu Ekonomik Roadster
 ![Screenshot](picture.png)
-Ekonomik Roadster rok później (Broń widoczna na zdjęciach to repliki!!!)
+Ekonomik Roadster rok później (Karabiny widoczne na zdjęciach to repliki!!!)
 ![Screenshot](picture2.jpg)
 
 ### Ekonomik Roadster został przygotowany na potrzeby konkursu "Od pomysłu do przemysłu".  Jego autorami są: Jakub Frączek oraz Kamil Kras.
